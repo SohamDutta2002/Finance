@@ -205,6 +205,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Stochastic Volatility Modeling by Bergomi, Lorenzo](https://www.lorenzobergomi.com/)
 - [Local/Stochastic Volatility and Applications with R](https://personal.ntu.edu.sg/nprivault/indext.html) - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader
 - [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
+- [Rough Volatility Literature](https://sites.google.com/site/roughvol/)
 
 ## Lévy processes and Jump Diffusion Models
 - [Financial Modelling with Jump Processes by Peter Tankov](https://www.routledge.com/Financial-Modelling-with-Jump-Processes/Tankov-Cont/p/book/9781584884132)
