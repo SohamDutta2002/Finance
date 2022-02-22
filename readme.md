@@ -206,6 +206,11 @@ A list of ressources for all topics related to quantitative finance!
 - [Local/Stochastic Volatility and Applications with R](https://personal.ntu.edu.sg/nprivault/indext.html) - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader
 - [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
 - [Rough Volatility Literature](https://sites.google.com/site/roughvol/)
+- [Rough Volatility Lecture 1 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV1.pdf)
+- [Rough Volatility Lecture 2 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV2.pdf)
+- [Rough Volatility Lecture 3 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV3.pdf)
+- [Rough Volatility Lecture 4 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV4.pdf)
+- [Rough Volatility Lecture 5 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV5.pdf)
 
 ## Lévy processes and Jump Diffusion Models
 - [Financial Modelling with Jump Processes by Peter Tankov](https://www.routledge.com/Financial-Modelling-with-Jump-Processes/Tankov-Cont/p/book/9781584884132)
