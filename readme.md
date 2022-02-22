@@ -38,7 +38,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Reinforcement Learning](#Reinforcement-Learning)
 - [Risk Management](#Risk-Management)
 - [Machine Learning and Financial Applications](#Machine-Learning-and-Financial-Applications)
-- [Github Repositories](#Github-Repository)
+- [Github Repositories](#Github-Repositories)
 
 <!-- CONTENT -->
 
