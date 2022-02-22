@@ -170,6 +170,8 @@ A list of ressources for all topics related to quantitative finance!
 - [Inference in Hidden Markov Models](https://link.springer.com/book/10.1007/0-387-28982-8)
 #### Extreme Value Theory
 - [Extreme Value Theory by A. Sabourin](https://perso.telecom-paristech.fr/sabourin/extremes-cours/poly.pdf)
+#### Kalman and Bayesian Filters
+- [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ## Financial Markets
 ### Christoph Belak
