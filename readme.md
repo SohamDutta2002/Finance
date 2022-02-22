@@ -85,12 +85,12 @@ A list of ressources for all topics related to quantitative finance!
 ### Mean Field Games
 - [College de France Lectures](https://www.college-de-france.fr/site/en-pierre-louis-lions/course-2011-2012.htm)
 - [UM6P 4 parts Lectures](https://www.youtube.com/watch?v=hI_4lltGyTM)
-- [Probabilistic Theory of Mean Field Games with Applications I Mean Field FBSDEs, Control, and Games by René Carmona,François Delarue]
-- [Mean Field Games-Springer by Yves Achdou, Pierre Cardaliaguet, François Delarue, Alessio Porretta, Filippo Santambrogio]
-- [The Master Equation and the Convergence Problem in Mean Field Games]	
+- [Probabilistic Theory of Mean Field Games with Applications I Mean Field FBSDEs, Control, and Games by René Carmona,François Delarue](https://link.springer.com/book/10.1007/978-3-319-58920-6)
+- [Mean Field Games-Springer by Yves Achdou, Pierre Cardaliaguet, François Delarue, Alessio Porretta, Filippo Santambrogio](https://www.springerprofessional.de/en/mean-field-games/18780524)
+- [The Master Equation and the Convergence Problem in Mean Field Games](https://press.princeton.edu/books/hardcover/9780691190709/the-master-equation-and-the-convergence-problem-in-mean-field-games)
 ### Optimal Transport
 - [Lectures by Brittany Hamfeldt](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl)
-- [Model-free Hedging: A Martingale Optimal Transport Viewpoint by Pierre Henry-Labordere]()
+- [Model-free Hedging: A Martingale Optimal Transport Viewpoint by Pierre Henry-Labordere](https://www.routledge.com/Model-free-Hedging-A-Martingale-Optimal-Transport-Viewpoint/Henry-Labordere/p/book/9780367657963)
 - [Lectures by F. Santambrogio](https://www.youtube.com/playlist?list=PLfMS16WRMpWliVdvhm1WD0V1VNo1L5v76)
 
 
@@ -204,7 +204,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Baruch MFE 2019 Fall - R Notebooks](https://github.com/HantianZheng/MTH9875-Volatility-Surface)
 - [Stochastic Volatility Modeling by Bergomi, Lorenzo](https://www.lorenzobergomi.com/)
 - [Local/Stochastic Volatility and Applications with R](https://personal.ntu.edu.sg/nprivault/indext.html) - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader
-- [Rough volatility]()
+- [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
 
 ## Lévy processes and Jump Diffusion Models
 - [Financial Modelling with Jump Processes by Peter Tankov](https://www.routledge.com/Financial-Modelling-with-Jump-Processes/Tankov-Cont/p/book/9781584884132)
