@@ -303,7 +303,7 @@ High frequency systemic risk: flash crashes, liquidity crises, systemic cojumps.
 ## High-Frequency Trading
 ### Sebastian Jaimungal
 - [Algorithmic and High-Frequency Trading by Álvaro Cartea, Sebastian Jaimungal, José Penalva]()
-- [Algorithmic Trading Slides and Pyhton Notebooks](http://sebastian.statistics.utoronto.ca/courses/sta-4505-algorithmic-trading/)
+- [Algorithmic Trading Slides and Python Notebooks](http://sebastian.statistics.utoronto.ca/courses/sta-4505-algorithmic-trading/)
 
 ## Reinforcement Learning
 ### Books
