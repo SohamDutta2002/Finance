@@ -39,7 +39,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Risk Management](#Risk-Management)
 - [Machine Learning and Financial Applications](#Machine-Learning-and-Financial-Applications)
 - [Github Repositories](#Github-Repositories)
-
+- [Bonus](#Bonus)
 <!-- CONTENT -->
 
 ## Mathematical Finance
@@ -361,6 +361,11 @@ Optimal liquidation problems, Markov decision processes, dynamic programming, Be
 
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)										
+## Bonus
+
+- [Library Genesis](https://libgen.is/)
+- [Sci-Hub](https://sci-hub.se/)
+- [Z-Library](https://z-lib.org/)
 										
 <!-- END CONTENT -->
 
