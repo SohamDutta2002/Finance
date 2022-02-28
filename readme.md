@@ -377,7 +377,7 @@ Optimal liquidation problems, Markov decision processes, dynamic programming, Be
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)										
 ## Blogs
-- [Quantgirl](https://quantgirl.blog/)
+- [Quantgirl](https://quantgirl.blog/quant-project/)
 - [ML-QUANT](https://www.ml-quant.com/)
 - [MLTraders](https://mltraders.wiki/)
 
