@@ -136,7 +136,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://trevorhastie.github.io/)
 - [Introduction to High-Dimensional Statistics by Christophe Giraud](https://www.routledge.com/Introduction-to-High-Dimensional-Statistics/Giraud/p/book/9780367716226)
 ### Machine Learning
-- [Probabilistic Machine Learning - Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning - Kevin Patrick Murphy](https://probml.github.io/pml-book/)
 - [Dive into deep learning](https://d2l.ai/)
 - [Deep Learning Do It Yourself!](https://dataflowr.github.io/website/)
 - [Alfredo Canziani and Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
