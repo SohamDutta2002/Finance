@@ -92,6 +92,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Lectures by Brittany Hamfeldt](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl)
 - [Model-free Hedging: A Martingale Optimal Transport Viewpoint by Pierre Henry-Labordere](https://www.routledge.com/Model-free-Hedging-A-Martingale-Optimal-Transport-Viewpoint/Henry-Labordere/p/book/9780367657963)
 - [Lectures by F. Santambrogio](https://www.youtube.com/playlist?list=PLfMS16WRMpWliVdvhm1WD0V1VNo1L5v76)
+- [Marco Cuturi](http://marcocuturi.net/ot.html)
 
 
 ## Financial Economics and Asset Management
