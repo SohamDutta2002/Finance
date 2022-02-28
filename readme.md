@@ -135,6 +135,11 @@ A list of ressources for all topics related to quantitative finance!
 - [Asymptotic Statistics by A. W. van der Vaart	](https://www.cambridge.org/core/books/asymptotic-statistics/A3C7DAD3F7E66A1FA60E9C8FE132EE1D)
 - [Statistical Learning with Sparsity The Lasso and Generalizations by Trevor Hastie, Robert Tibshirani, Martin Wainwright](https://trevorhastie.github.io/)
 - [Introduction to High-Dimensional Statistics by Christophe Giraud](https://www.routledge.com/Introduction-to-High-Dimensional-Statistics/Giraud/p/book/9780367716226)
+### Machine Learning
+- [Probabilistic Machine Learning - Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
+- [Dive into deep learning](https://d2l.ai/)
+- [Deep Learning Do It Yourself!](https://dataflowr.github.io/website/)
+- [Alfredo Canziani and Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 ### Python 
 - [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
 - [Quantitative Economics with Python](https://python.quantecon.org/intro.html	)
